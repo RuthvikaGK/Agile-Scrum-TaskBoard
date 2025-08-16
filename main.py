@@ -1,5 +1,4 @@
-# Agile Scrum Board Mini Project
-# Author: Your Name
+# Agile Scrum Task Board Mini Project
 
 scrum_board = {
     "Backlog": [],
